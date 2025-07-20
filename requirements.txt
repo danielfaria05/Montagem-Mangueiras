@@ -1,0 +1,1 @@
+fastapi==0.111.*\nuvicorn[standard]==0.29.*\nsupabase-py==2.*\nasyncpg==0.29.*
